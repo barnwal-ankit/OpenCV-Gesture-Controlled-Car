@@ -1,5 +1,3 @@
----
-
 # 🚗 Gesture-Controlled Smart Car with Computer Vision
 
 A **real-time gesture-controlled smart car system** powered by **OpenCV**, **MediaPipe**, and **ESP-based wireless control**.
@@ -168,15 +166,3 @@ ESP_IP = "192.168.4.1"
 ```text
 http://<ESP_IP>/setSpeed?value=<PWM>
 ```
-
----
-
-## 🚀 Future Improvements
-
-* 🤖 Obstacle avoidance (ultrasonic / LiDAR)
-* 📱 Mobile app controller
-* 🧠 Gesture learning with ML classifiers
-* 🔐 Encrypted communication
-* 📷 Multi-hand / multi-gesture support
-
----
